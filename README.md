@@ -52,3 +52,5 @@
     11.2. Проблему решил изменением перенаправляемого каталога на /var/lib/postgresql/data.
 
 Скриншот выполнения:
+
+<img width="1241" height="959" alt="Снимок экрана 2025-12-01 140709" src="https://github.com/user-attachments/assets/567c9384-66af-4f73-8555-6d7c6241cd61" />
